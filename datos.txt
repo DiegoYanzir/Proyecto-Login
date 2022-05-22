@@ -1,0 +1,11 @@
+http://localhost:88/phpmyadmin/index.php?route=/sql&db=dba_login&table=tb_usuarios&pos=0
+http://localhost:88/Login/index.php
+https://www.lastpass.com/es/features/password-generator
+https://github.com/DiegoYanzir/Proyecto-Login.git
+users:
+&o^HLF2@@IYz
+admin
+estebanArd
+@As73Th9BtR-%
+asder
+#Th9BtR136jE
